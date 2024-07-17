@@ -9,3 +9,13 @@ body {
 .red {
 color: red;
 }
+
+.black {
+    color: black;
+}
+
+.square {
+    font-size: 1em;
+    border: 0.10em solid black;
+    padding: 0.25em;
+}
